@@ -1,6 +1,6 @@
 # Krishna Bahadur ‍
 
-**Data Enthusiast | Security Guardian**
+**Data Enthusiast | Data Scientist | Tableau | Python & C Programmer | C++ Learner**
 
 Hi everyone! I'm Krishna Bahadur, a passionate data enthusiast driven by the challenge of uncovering hidden patterns, mitigating security threats, and transforming data into actionable insights that make a real-world impact.
 
