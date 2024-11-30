@@ -25,7 +25,7 @@ Hi everyone! I'm Krishna Bahadur, a passionate data enthusiast driven by the cha
 
 **Connect with Me:**
 
-* **LinkedIn:** [www.linkedin.com/in/krishna-bahadur-6a0a1a2a1](www.linkedin.com/in/krishna-bahadur-6a0a1a2a1)
+* **LinkedIn:** www.linkedin.com/in/krishna-bahadur-6a0a1a2a1
 * **Pronouns:** He
 
 **⚡ Fun Fact:** Data analysis is my puzzle playground! I love the thrill of piecing together information to reveal the bigger picture.
