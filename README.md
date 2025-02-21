@@ -4,6 +4,7 @@
 <img src="https://user-images.githubusercontent.com/your_github_username/your_gif_or_image.gif" alt="Krishna Bahadur" width="400" align="right"> 
 
 <p align="left"> <a href="https://www.linkedin.com/in/krishna-bahadur-6a0a1a2a1" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Krishna Bahadur" /></a> </p>
+<p align="left"> <a href="[https://www.linkedin.com/in/krishna-bahadur-6a0a1a2a1](https://public.tableau.com/app/profile/krishna.bahadur/vizzes)" target="blank">Tableau</a> </p>
 
 - 📊 **Areas of Expertise:**
     - Data Analysis & Visualization (IBM Cognos Analytics, Tableau)
