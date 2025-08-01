@@ -1,32 +1,48 @@
-<h1 align="center">Hi 👋, I'm Krishna Bahadur</h1>
-<h3 align="center">Data Enthusiast | Data Scientist | Tableau | Python & C Programmer | C++ Learner</h3>
+<h1 align="center">Hi there, I'm Krishna Bahadur 👋</h1>
+<h3 align="center">A Data Analyst with a passion for uncovering insights and telling stories with data.</h3>
 
-<img src="https://user-images.githubusercontent.com/your_github_username/your_gif_or_image.gif" alt="Krishna Bahadur" width="400" align="right"> 
-
-<p align="left"> <a href="https://www.linkedin.com/in/krishna-bahadur-6a0a1a2a1" target="blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="Krishna Bahadur" /></a> </p>
-<p align="left"> <a href="[https://www.linkedin.com/in/krishna-bahadur-6a0a1a2a1](https://public.tableau.com/app/profile/krishna.bahadur/vizzes)" target="blank">Tableau</a> </p>
-
-- 📊 **Areas of Expertise:**
-    - Data Analysis & Visualization (IBM Cognos Analytics, Tableau)
-    - Cybersecurity
-    - Database Management (SQL)
-    - Operating Systems
-
-- 🌱 **Continually Learning:**
-    - Advanced SQL
-    - Python for Data Science (Pandas, NumPy, Matplotlib)
-    - Cybersecurity Frameworks (NIST, ISO 27001)
-
-- 🤝 **Collaboration Opportunities:**
-    - Data-Driven Security Projects
-    - Data Analysis Projects
-    - Open-Source Cybersecurity Tools
-
-- ⚡ **Fun fact:** Data analysis is my puzzle playground! I love the thrill of piecing together information to reveal the bigger picture.
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/krishna-bahadur-6a0a1a2a1" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="krishna-bahadur-6a0a1a2a1" height="30" width="40" /></a>
+<p align="center">
+  <img src="github-header-image.png" alt="Krishna Bahadur - Data Analyst Banner">
 </p>
 
+<p align="left">
+  <a href="https://www.linkedin.com/in/krishna-bahadur-6a0a1a2a1" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://public.tableau.com/app/profile/krishna.bahadur" target="_blank"><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" /></a>
+</p>
 
+---
+
+### 👨‍💻 About Me
+
+I view data analysis as my puzzle playground! I love the thrill of piecing together complex information to reveal the bigger picture and drive data-informed decisions. My journey has given me a unique perspective, blending core data analysis skills with a strong foundation in cybersecurity, allowing me to not only find insights but also understand their security implications.
+
+---
+
+### 🧰 My Data Analyst Toolbox
+
+Here are some of the key technologies and tools I work with:
+
+| Category          | Tools                                                                                                                                                                                                                                                                                             |
+|-------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Languages** | <a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a> <a href="#"><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" /></a>                  |
+| **BI & Visualization** | <a href="https://public.tableau.com/app/profile/krishna.bahadur" target="_blank"><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" /></a> <a href="#"><img src="https://img.shields.io/badge/IBM%20Cognos-000000?style=for-the-badge&logo=ibm&logoColor=white" /></a> |
+| **Data Libraries** | <a href="#"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /></a> <a href="#"><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" /></a> <a href="#"><img src="https://img.shields.io/badge/Matplotlib-313131?style=for-the-badge&logo=matplotlib&logoColor=white" /></a> |
+                                                                                                                                                                          |
+---
+
+### 🌱 Current Focus
+
+Right now, I'm deepening my expertise in:
+-   Advanced SQL techniques for complex query optimization.
+-   Building interactive and impactful dashboards in Tableau.
+-   Applying data analysis to cybersecurity frameworks like NIST.
+
+---
+
+
+
+---
+
+### 🤝 Let's Connect!
+
+I'm always interested in collaborating on data-driven projects, especially those in the data security space. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/krishna-bahadur-6a0a1a2a1)!
