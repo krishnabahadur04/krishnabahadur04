@@ -1,48 +1,18 @@
-<h1 align="center">Hi there, I'm Krishna Bahadur 👋</h1>
-<h3 align="center">A Data Analyst with a passion for uncovering insights and telling stories with data.</h3>
+# 💫 About Me:
+I love finding the 'why' behind the numbers.<br><br>As a final-year Data Science student, I have moved beyond theory to practical application. I specialize in cleaning complex datasets with Python (Pandas), querying databases with SQL, and building interactive dashboards in Tableau/Power BI to solve business problems.<br>
 
-<p align="center">
-  <img src="github-header-image.png" alt="Krishna Bahadur - Data Analyst Banner">
-</p>
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/krishna-bahadur-6a0a1a2a1" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://public.tableau.com/app/profile/krishna.bahadur" target="_blank"><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" /></a>
-</p>
+## 🌐 Socials:
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/krishna-bahadur-6a0a1a2a1) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@krishna_bahadur04) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:punkrishna11584@gmail.com) 
 
----
-
-### 👨‍💻 About Me
-
-I view data analysis as my puzzle playground! I love the thrill of piecing together complex information to reveal the bigger picture and drive data-informed decisions. My journey has given me a unique perspective, blending core data analysis skills with a strong foundation in cybersecurity, allowing me to not only find insights but also understand their security implications.
+# 💻 Tech Stack:
+![Google Cloud](https://img.shields.io/badge/GoogleCloud-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white) ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=krishnabahadur04&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=krishnabahadur04&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=krishnabahadur04&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=krishnabahadur04&icon=0&color=0)](https://visitcount.itsvg.in)
 
-### 🧰 My Data Analyst Toolbox
-
-Here are some of the key technologies and tools I work with:
-
-| Category          | Tools                                                                                                                                                                                                                                                                                             |
-|-------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Languages** | <a href="https://www.python.org" target="_blank"><img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" /></a> <a href="#"><img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white" /></a>                  |
-| **BI & Visualization** | <a href="https://public.tableau.com/app/profile/krishna.bahadur" target="_blank"><img src="https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white" /></a> <a href="#"><img src="https://img.shields.io/badge/IBM%20Cognos-000000?style=for-the-badge&logo=ibm&logoColor=white" /></a> |
-| **Data Libraries** | <a href="#"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" /></a> <a href="#"><img src="https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white" /></a> <a href="#"><img src="https://img.shields.io/badge/Matplotlib-313131?style=for-the-badge&logo=matplotlib&logoColor=white" /></a> |
-                                                                                                                                                                          |
----
-
-### 🌱 Current Focus
-
-Right now, I'm deepening my expertise in:
--   Advanced SQL techniques for complex query optimization.
--   Building interactive and impactful dashboards in Tableau.
--   Applying data analysis to cybersecurity frameworks like NIST.
-
----
-
-
-
----
-
-### 🤝 Let's Connect!
-
-I'm always interested in collaborating on data-driven projects, especially those in the data security space. Feel free to reach out to me on [LinkedIn](https://www.linkedin.com/in/krishna-bahadur-6a0a1a2a1)!
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
